@@ -1,6 +1,6 @@
 # Planner Semanal Simples em React
 
-Este é um projeto simples de um Planner Semanal desenvolvido com React, ideal para iniciantes que desejam praticar e aprender conceitos básicos dessa biblioteca JavaScript.
+Este é um projeto simples de um Planner Semanal desenvolvido com React, ideal para iniciantes que desejam praticar e aprender conceitos básicos do React.
 
 ## Funcionalidades
 
